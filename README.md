@@ -11,7 +11,7 @@ Hub is the center of the system. It gets the data back and modifies the data (sp
 
 DataOutput writes the finalized data. 
 
-#Relationships
+# Relationships
 Hub manages SensorData : Hub stores and controls a list of SensorData objects.
 
 Hub uses CSVReader: Hub relies on CSVReader to load data from CSV files.
