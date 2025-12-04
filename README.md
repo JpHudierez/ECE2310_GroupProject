@@ -25,4 +25,4 @@ Hub uses DataOutput: Hub sends its processed data to DataOutput to generate the 
 UML Diagram
 <img src="https://media.discordapp.net/attachments/1443418398401888357/1446017427774115910/7de7374b-02d2-4f7d-a5e9-c03ff43854a7.png?ex=6932742c&is=693122ac&hm=2d8b324a1b128008dcf60a3d0a81e0b7dbb4520b0f83968be7cf28d7d6a443b2&=&format=webp&quality=lossless&width=804&height=920" title=Output2 height = 812 width = 709>
 
-Objectives 
+Objectives: Read, process, package, and output the data from iot_telemetry_data.csv 
